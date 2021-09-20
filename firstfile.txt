@@ -1,1 +1,2 @@
-hello buddy ol boy buddy
+this is the second file 
+added to my project
